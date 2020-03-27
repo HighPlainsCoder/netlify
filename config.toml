@@ -1,0 +1,4 @@
+baseURL = "http://hugo.crewert.com/"
+languageCode = "en-us"
+title = "Lets go, Hugo"
+theme = "ananke"
