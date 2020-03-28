@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg" >
+
+
+    <circle id="tree1" style='fill:#006000' cx="530" cy="250" r="25"  />
+    <circle id="tree2" style='fill:#006000' cx="400" cy="400" r="30"  />
+
+    <path id='building' fill="#601010"
+    	d="M 650 350 L 625 425 445 365 470 290 z" />
+
+    <circle id='target' style='fill:#8080f0' cx='475' cy='450' r='10' />
+    <circle id='seeker' style='fill:#080870' cx='445' cy='200' r='10' />
+
+    <path id='room'	style="fill-opacity:0" stroke="#606060" stroke-width="8"
+        d="M 410  60 L 360 210 210 210 110 300 110 400 200 490 500 490 600 465 700 490 790 300 700 210 590 210 490 60 410 60 Z"
+    	/>
+</svg>
