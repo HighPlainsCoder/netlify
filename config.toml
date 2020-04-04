@@ -1,45 +1,14 @@
 baseURL = "http://hugo.crewert.com/"
 languageCode = "en-us"
-title = "CR Ewerts personal web site"
-author = "CR Ewert"
-
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating
+title = "CREEEwerts Hugo Site"
+author = "CREEEwert"
+theme = "flex"
+defaultContentLanguage = "en"
+sectionPagesMenu = "main"
+paginate = 3 # this is set low for demonstrating
 enableRobotsTXT = true
 
 [params]
+  author = "C.R. Ewert"
   recent_posts_number = 8
 
-[menu]
-  [[menu.nav]]
-    name = "Home"
-    url = "/"
-  [[menu.nav]]
-    name = "Blog"
-    url = "/posts/"
-  [[menu.nav]]
-    name = "Notes"
-    url = "/notes/"
-  [[menu.nav]]
-    name = "Pages"
-    url = "/pages/"
-  [[menu.nav]]
-    name = "About"
-    url = "/about/"
-  [[menu.nav]]
-    name = "Experiments"
-    url = "/experiments/"
-  [[menu.nav]]
-    name = "A-gi-le"
-    url = "/a-gi-le/"
-  [[menu.nav]]
-    name = "Graph"
-    url = "/graph/"
-  [[menu.nav]]
-    name = "risk-like"
-    url = "/risk-like/"
-  [[menu.nav]]
-    name = "Whats On TV"
-    url = "/whats-on-tv/"
