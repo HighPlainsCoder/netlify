@@ -2,7 +2,7 @@ baseURL = "http://hugo.crewert.com/"
 languageCode = "en-us"
 title = "CREEEwerts Hugo Site"
 author = "CREEEwert"
-theme = "flex"
+theme = "hugomodo"
 
 [params]
   author = "C.R. Ewert"
