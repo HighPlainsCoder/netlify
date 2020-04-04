@@ -1,4 +1,8 @@
 baseURL = "http://hugo.crewert.com/"
 languageCode = "en-us"
-title = "Lets go, Hugo"
-theme = "hugomodo"
+title = "CREEEwerts Hugo Site"
+author = "CREEEwert"
+theme = "binario"
+
+[params]
+  author = "C.R. Ewert"
