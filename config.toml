@@ -1,7 +1,7 @@
 baseURL = "http://hugo.crewert.com/"
 languageCode = "en-us"
 title = "CR Ewerts personal web site"
-theme = "dream"
+author = "CR Ewert"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -10,7 +10,7 @@ Paginate = 3 # this is set low for demonstrating
 enableRobotsTXT = true
 
 [params]
-  recent_posts_number = 2
+  recent_posts_number = 8
 
 [menu]
   [[menu.nav]]
