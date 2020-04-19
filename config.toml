@@ -2,11 +2,12 @@ baseURL = "http://hugo.crewert.com/"
 languageCode = "en-us"
 title = "CREEEwerts Hugo Site"
 author = "CREEEwert"
-theme = "flex"
+theme = "blanc"
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 paginate = 3 # this is set low for demonstrating
 enableRobotsTXT = true
+rssLimit = 0
 
 [params]
   author = "C.R. Ewert"

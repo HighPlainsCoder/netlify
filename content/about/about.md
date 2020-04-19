@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2020-03-28
+draft: false
 ---
 
 This is a personal site for experimentation, for CR Ewert.  CR is a programmer in the Denver-Boulder metropolitan area.  We are not currently seeking employment, but that doesnt mean we wont entertain outreach.  We would be looking for a Staff Engineer or Architect placment, or something special.
