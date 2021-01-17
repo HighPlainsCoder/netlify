@@ -3,7 +3,7 @@ repo behind a netlify site
 
 build with hugo, deploy with netlify, repo here
 
-Deployed at https://hugo.crewert.com/
+Deployed at https://eeewert.org/
 
 Next Steps: 
 
